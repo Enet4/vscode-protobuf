@@ -33,7 +33,8 @@
                     "proto"
                 ],
                 "extensions": [
-                    ".proto"
+                    ".proto",
+                    ".prototxt"
                 ],
                 "configuration": "./proto.configuration.json"
             }
